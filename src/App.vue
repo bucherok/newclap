@@ -1,7 +1,6 @@
 <template>
     <div>
         <clap-header></clap-header>
-        <router-link to="player">Player</router-link>
         <router-view></router-view>
     </div>
 </template>
