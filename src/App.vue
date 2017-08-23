@@ -17,6 +17,10 @@
 </script>
 
 <style>
+    @font-face {
+        src: url("./assets/BebasNeue Regular.otf");
+        font-family: "bebas";
+    }
     /* http://meyerweb.com/eric/tools/css/reset/
        v2.0 | 20110126
        License: none (public domain)
@@ -40,6 +44,7 @@
         border: 0;
         font-size: 100%;
         font: inherit;
+        font-family: "Bebas Neue";
         vertical-align: baseline;
         color: #fff;
 
@@ -70,5 +75,10 @@
     }
     body {
         background:  darkgray;
+
+    }
+    :root {
+        --water-blue: #0e97bf;
+        --dark-grey: #272929;
     }
 </style>

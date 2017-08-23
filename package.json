@@ -26,6 +26,7 @@
     "vue-template-compiler": "^2.3.3",
     "webpack": "^2.6.1",
     "webpack-dev-server": "^2.4.5",
-    "eslint-config-standard": "^10.2.1"
+    "eslint-config-standard": "^10.2.1",
+    "url-loader": "0.5.9"
   }
 }
